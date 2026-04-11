@@ -1,0 +1,85 @@
+{
+    "audio": {
+        "fft_list": [
+            "256",
+            "512",
+            "1024",
+            "2048",
+            "4096",
+            "8096",
+            "12288",
+            "16384",
+            "32798",
+            "48000"
+        ],
+        "mode_list": [
+            "Input",
+            "Output (loopback)",
+            "Both"
+        ],
+        "mode": 1,
+        "input": 1,
+        "output": 3,
+        "fftsize": 1024,
+        "minfreq": 0,
+        "maxfreq": 0,
+        "gate": -45,
+        "onfilter": true
+    },
+    "view": {
+        "autoscroll": true,
+        "alwaysontop": true,
+        "timedomain": false,
+        "autoview": false,
+        "themalist": [
+            "dark"
+        ],
+        "langlist": [
+            "en",
+            "tr"
+        ],
+        "thema": "dark",
+        "language": "en",
+        "bgcolor": "#000000",
+        "fontcolor": "#ffffff",
+        "fontsize": 22,
+        "font": "Yu Gothic",
+        "viewopacity": 87,
+        "fontweight": 460
+    },
+    "speech": {
+        "sizelist": [
+            "tiny",
+            "base",
+            "small",
+            "medium",
+            "large",
+            "large-v3"
+        ],
+        "apilist": [
+            "faster_whisper",
+            "vosk"
+        ],
+        "api": "faster_whisper",
+        "lgname": "Korean",
+        "lgcode": "ko",
+        "size": "small",
+        "chunksize": 2,
+        "beamsize": 1,
+        "vadfilter": true,
+        "autolang": true
+    },
+    "translate": {
+        "apilist": [
+            "Google",
+            "Deepl",
+            "Yandex",
+            "Custom"
+        ],
+        "api": "Deepl",
+        "lgname": "Turkish",
+        "lgcode": "tr",
+        "active": true,
+        "customurl": ""
+    }
+}
