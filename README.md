@@ -11,7 +11,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/)
 pip install sounddevice
 ```
 
-## Kullanım
+## Use
 
 ```
 cd ozk-volume
