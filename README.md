@@ -19,5 +19,5 @@ cd ozk-volume
 ```
 
 ## License
-
+Uygulama sorumluluğu tamamıyla sizdedir
 [MIT](https://choosealicense.com/licenses/mit/)
