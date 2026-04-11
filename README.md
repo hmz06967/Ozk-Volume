@@ -4,6 +4,7 @@ Speech-to-Text Uygulaması – Windows üzerinde ses girişini gerçek zamanlı 
 
 ## Installation
 
+core.py dosyasındaki tüm modülleri aşağıdaki kod ile yüklediğinizden emin olun, ilk çalıştırma sırasında paket bulunamadı hatalarını bu komutla giderin.
 Use the package manager [pip](https://pip.pypa.io/en/stable/)
 
 ```bash
