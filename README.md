@@ -13,6 +13,7 @@ pip install sounddevice
 ## Kullanım
 
 ```
+cd ozk-volume
 .\hot.bat
 ```
 
