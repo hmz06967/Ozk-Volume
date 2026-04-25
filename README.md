@@ -1,6 +1,6 @@
 # Ozk-Volume
 
-Speech-to-Text Uygulaması – Windows üzerinde ses girişini gerçek zamanlı metne dönüştürerek (speech to text) kullanıcıya sunan bir Python tabanlı uygulamadır. Ses kaydı, bilgisayarda konuşulan metni otomatik olarak alır ekrana yazar gerekirse kaydedebilirsiniz.
+[Speech-to-Text Uygulaması](https://blog.hamzaozkan.com.tr/) – Windows üzerinde ses girişini gerçek zamanlı metne dönüştürerek (speech to text) kullanıcıya sunan bir Python tabanlı uygulamadır. Ses kaydı, bilgisayarda konuşulan metni otomatik olarak alır ekrana yazar gerekirse kaydedebilirsiniz.
 
 ## Installation
 
