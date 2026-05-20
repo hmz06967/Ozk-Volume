@@ -3,7 +3,7 @@
 [Speech-to-Text Uygulaması](https://blog.hamzaozkan.com.tr/2026/04/gercek-zamanl-konusma-sentezi-uygulamas.html) – Windows üzerinde ses cihazlarından alınan sesi gerçek zamanlı metne dönüştürerek (speech to text) kullanıcıya sunan bir Python tabanlı uygulamadır. Ses kaydı, bilgisayarda konuşulan metni otomatik olarak alır ekrana yazar gerekirse kaydedebilirsiniz.
 
 ## Support
-Bizi patreon ile destekleyin [Patreon Creative](https://www.patreon.com/posts/gercek-zamanli-158065340?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)
+Bizi patreon ile destekleyin [Patreon Creative](https://www.patreon.com/CreativeElectronics)
 
 ## Installation
 
